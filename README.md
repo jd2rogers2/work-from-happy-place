@@ -16,9 +16,12 @@ Users:
     (location admin user acct w/ publicly visible properties)
     hours
     address
-  Checkins (visited)
+    is_public (false for company offices)
+    number_of_seats
+  Checkins (visited) - intended to be future (ui on app open "going in to the office tomorrow?")
 
 later:
+friends (coworkers? types of relationships?)
 reviews
 ratings
 messages
