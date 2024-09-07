@@ -22,6 +22,7 @@ Users:
 
 later:
 friends (coworkers? types of relationships?)
+groups (social, accountability)
 reviews
 ratings
 messages
